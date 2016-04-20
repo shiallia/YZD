@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\versionchanger\versionchanger\bin\Release\versionchanger.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\versionchanger\versionchanger\bin\Release\versionchanger.exe
+c:\users\dell\documents\visual studio 2015\Projects\versionchanger\versionchanger\bin\Release\versionchanger.pdb
+c:\users\dell\documents\visual studio 2015\Projects\versionchanger\versionchanger\obj\Release\versionchanger.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\versionchanger\versionchanger\obj\Release\versionchanger.exe
+c:\users\dell\documents\visual studio 2015\Projects\versionchanger\versionchanger\obj\Release\versionchanger.pdb
