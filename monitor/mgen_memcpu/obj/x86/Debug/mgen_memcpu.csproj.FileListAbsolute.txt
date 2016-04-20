@@ -1,0 +1,14 @@
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\bin\Debug\mgen_memcpu.exe.config
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\bin\Debug\mgen_memcpu.exe
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\bin\Debug\mgen_memcpu.pdb
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\MainWindow.baml
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\App.baml
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu_MarkupCompile.cache
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu.g.resources
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu.Properties.Resources.resources
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu.exe
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu.pdb
+C:\Users\DELL\Downloads\mgen_memcpu\源代码\mgen_memcpu\obj\x86\Debug\mgen_memcpu.csprojResolveAssemblyReference.cache

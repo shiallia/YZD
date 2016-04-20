@@ -1,0 +1,31 @@
+﻿<Window x:Class="mgen_memcpu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="医诊达设备监控"  Height="400" Width="525" Background="Black"
+        Loaded="Window_Loaded" Closed="Window_Closed">
+    <StackPanel>
+        <HeaderedContentControl Header="CPU使用">
+            <StackPanel>
+                <ProgressBar Name="cpuP" />
+                <TextBlock Name="cpuT" />
+            </StackPanel>
+        </HeaderedContentControl>
+        <HeaderedContentControl Header="内存使用">
+            <StackPanel>
+                <ProgressBar Name="memP" />
+                <TextBlock Name="memT" />
+                <TextBlock Name="yzdmemT" />
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock>物理内存总大小： </TextBlock>
+                    <TextBlock Name="memTotal" />
+                </StackPanel>
+            </StackPanel>
+        </HeaderedContentControl>
+        <HeaderedContentControl>
+            <StackPanel>
+                <TextBlock>当前ip：</TextBlock>
+                <TextBlock Name="ipT" />
+            </StackPanel>
+        </HeaderedContentControl>
+    </StackPanel>
+</Window>
