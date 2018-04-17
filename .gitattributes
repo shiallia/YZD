@@ -1,0 +1,2 @@
+*.cs linguist-language=c++
+*.xaml linguist-language=c++
