@@ -3,7 +3,7 @@
 ## shell的启动流程
 
 1. 隐藏mfc窗口
-2. 注册如下快捷键，并实现了响应的功能
+2. 注册如下快捷键，并实现了相应的功能
     ```c++
     ::RegisterHotKey(m_hWnd, 001, MOD_CONTROL | MOD_SHIFT, 0X31);     //1   explorer
     ::RegisterHotKey(m_hWnd, 002, MOD_CONTROL | MOD_SHIFT, 0X32);     //2   cmd
